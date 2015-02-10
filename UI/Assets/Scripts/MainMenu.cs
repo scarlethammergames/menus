@@ -13,7 +13,7 @@ public class MainMenu : MonoBehaviour {
 		GUI.skin = gSkin;
 
 		if (GUI.Button(new Rect(Screen.width*0.5f - (Screen.width*0.2f/2), Screen.height*0.4f,Screen.width*0.2f,Screen.height*0.1f), "Play")) {
-			Application.LoadLevel("Game");
+			Application.LoadLevel("TestGame");
 		}
 
 		if (GUI.Button(new Rect(Screen.width*0.5f - (Screen.width*0.2f/2), Screen.height*0.6f,Screen.width*0.2f,Screen.height*0.1f), "Quit")) {

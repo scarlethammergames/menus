@@ -1,21 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuManager.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PauseScreen.js">
     <Files>
-      <File FileName="Assets\Scripts\MainMenu2.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MenuManager.cs" Line="5" Column="2" />
+      <File FileName="Assets\Scripts\PauseScreen.js" Line="15" Column="56" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="16" Column="31" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="Assembly-CSharp" expanded="True">
-            <Node name="Scripts" expanded="True">
-              <Node name="MenuManager.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
